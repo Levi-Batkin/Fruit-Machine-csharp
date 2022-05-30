@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PkIKRgdcDyxgerjff1pvk8uPZ2Q6YuUlPuMIQsgPsrfW1WsAhGi9UM/ZbV8lqSidfMuNKCl63vFFTbGLO+dyFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batki\\OneDrive\\Desktop\\Development\\Fruit Machine\\Fruit Machine\\Fruit Machine\\Fruit Machine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\batki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\batki\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\batki\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

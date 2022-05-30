@@ -1,0 +1,41 @@
+H:\Downloads\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.exe
+H:\Downloads\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.deps.json
+H:\Downloads\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.runtimeconfig.json
+H:\Downloads\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.runtimeconfig.dev.json
+H:\Downloads\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.dll
+H:\Downloads\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.pdb
+H:\Downloads\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.csprojAssemblyReference.cache
+H:\Downloads\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.AssemblyInfoInputs.cache
+H:\Downloads\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.AssemblyInfo.cs
+H:\Downloads\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.csproj.CoreCompileInputs.cache
+H:\Downloads\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.dll
+H:\Downloads\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.pdb
+H:\Downloads\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.genruntimeconfig.cache
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.exe
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.deps.json
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.runtimeconfig.json
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.runtimeconfig.dev.json
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.dll
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.pdb
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.csproj.AssemblyReference.cache
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.AssemblyInfoInputs.cache
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.AssemblyInfo.cs
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.csproj.CoreCompileInputs.cache
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.dll
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.pdb
+C:\Users\batki\OneDrive\Desktop\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.genruntimeconfig.cache
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.exe
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.deps.json
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.runtimeconfig.json
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.runtimeconfig.dev.json
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.dll
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\bin\Debug\netcoreapp3.1\Fruit Machine.pdb
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.csproj.AssemblyReference.cache
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.AssemblyInfoInputs.cache
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.AssemblyInfo.cs
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.csproj.CoreCompileInputs.cache
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.dll
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.pdb
+C:\Users\batki\OneDrive\Desktop\Development\Fruit Machine\Fruit Machine\Fruit Machine\obj\Debug\netcoreapp3.1\Fruit Machine.genruntimeconfig.cache
